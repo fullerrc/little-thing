@@ -1,0 +1,16 @@
+spring:
+  data:
+    mongodb:
+      auto-index-creation: true
+  mongodb:
+    uri: ${DATA_URI}
+logging:
+  level:
+    org:
+      springframework:
+        data:
+          mongodb:
+            repository:
+              DEBUG
+            core:
+              DEBUG
