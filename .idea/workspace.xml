@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a17387b-f703-45a3-8e29-4f9b22b7641a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/robertfuller/little_thing/LittleThing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/robertfuller/little_thing/configuration/RandomerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/robertfuller/little_thing/configuration/TimeConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/robertfuller/little_thing/controllers/RandomController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/robertfuller/little_thing/dtos/RandomNumberResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/robertfuller/little_thing/dtos/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/robertfuller/little_thing/models/RequestedRandomNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/robertfuller/little_thing/repositories/RandomNumberRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/robertfuller/little_thing/services/RandomNumberService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/robertfuller/little_thing/LittleThingTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/robertfuller/little_thing/LittleThingsUnitTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/robertfuller/little_thing/configuration/MongTestContainersConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/robertfuller/little_thing/configuration/RandomerConfigTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/robertfuller/little_thing/controllers/RandomControllerEndToEndTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/robertfuller/little_thing/controllers/RandomControllerIntegrationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/robertfuller/little_thing/dtos/RandomNumberResponseTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/robertfuller/little_thing/dtos/ResponseTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/robertfuller/little_thing/models/RequestedRandomNumberTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/robertfuller/little_thing/services/RandomNumberServiceTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JavaCoverageOptionsProvider">
+    <option name="myRunnerId" value="jacoco" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Ki39UBXOcgZzjNO2e6ZUCAmHDp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.LittleThingTests.contextLoads.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LittleThingTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LittleThingsUnitTests.testMainDelegatesToSpringApplication.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RandomControllerEndToEndTests.testGetInRange.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RandomControllerIntegrationTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RandomControllerIntegrationTests.testGetInRange.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RandomControllerTests.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.RandomControllerTests.testGetInRange.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RandomNumberResponseTests.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.RandomNumberResponseTests.testInstantiation.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RandomNumberResponseTests.testOf.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RandomNumberServiceTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RandomNumberServiceTests.testRandomNumber.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RandomerConfigTests.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.RandomerConfigTests.testGetRandom.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RandomerConfigTests.testInstantGiver.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RequestedRandomNumberTests.testInstantiation.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ResponseTests.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.ResponseTests.testOf.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.java in little_thing.executor&quot;: &quot;Coverage&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.LittleThing.executor&quot;: &quot;Debug&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/fullerrc/learning/Spring/Testing/LittleThing/src/main/java/dev/robertfuller/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.testRunning&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="dev.robertfuller.little_thing.models" />
+      <recent name="dev.robertfuller.little_thing.dtos" />
+      <recent name="dev.robertfuller.little_thing" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.java in little_thing">
+    <configuration name="RandomControllerEndToEndTests.testGetInRange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="little_thing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.robertfuller.little_thing.controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dev.robertfuller.little_thing.controllers" />
+      <option name="MAIN_CLASS_NAME" value="dev.robertfuller.little_thing.controllers.RandomControllerEndToEndTests" />
+      <option name="METHOD_NAME" value="testGetInRange" />
+      <option name="TEST_OBJECT" value="method" />
+      <envs>
+        <env name="DOCKER_HOST" value="unix://$USER_HOME$/.colima/default/docker.sock" />
+        <env name="TESTCONTAINERS_DOCKER_SOCKET_OVERRIDE" value="/var/run/docker.sock" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomNumberResponseTests.testOf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="little_thing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.robertfuller.little_thing.dtos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dev.robertfuller.little_thing.dtos" />
+      <option name="MAIN_CLASS_NAME" value="dev.robertfuller.little_thing.dtos.RandomNumberResponseTests" />
+      <option name="METHOD_NAME" value="testOf" />
+      <option name="TEST_OBJECT" value="method" />
+      <envs>
+        <env name="DOCKER_HOST" value="unix://$USER_HOME$/.colima/default/docker.sock" />
+        <env name="TESTCONTAINERS_DOCKER_SOCKET_OVERRIDE" value="/var/run/docker.sock" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomerConfigTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="little_thing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.robertfuller.little_thing.configuration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dev.robertfuller.little_thing.configuration" />
+      <option name="MAIN_CLASS_NAME" value="dev.robertfuller.little_thing.configuration.RandomerConfigTests" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <envs>
+        <env name="DOCKER_HOST" value="unix://$USER_HOME$/.colima/default/docker.sock" />
+        <env name="TESTCONTAINERS_DOCKER_SOCKET_OVERRIDE" value="/var/run/docker.sock" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomerConfigTests.testInstantGiver" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="little_thing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.robertfuller.little_thing.configuration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dev.robertfuller.little_thing.configuration" />
+      <option name="MAIN_CLASS_NAME" value="dev.robertfuller.little_thing.configuration.RandomerConfigTests" />
+      <option name="METHOD_NAME" value="testInstantGiver" />
+      <option name="TEST_OBJECT" value="method" />
+      <envs>
+        <env name="DOCKER_HOST" value="unix://$USER_HOME$/.colima/default/docker.sock" />
+        <env name="TESTCONTAINERS_DOCKER_SOCKET_OVERRIDE" value="/var/run/docker.sock" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="little_thing" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <envs>
+        <env name="DOCKER_HOST" value="unix://$USER_HOME$/.colima/default/docker.sock" />
+        <env name="TESTCONTAINERS_DOCKER_SOCKET_OVERRIDE" value="/var/run/docker.sock" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java in little_thing" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="little_thing" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="directory" />
+      <envs>
+        <env name="DOCKER_HOST" value="unix://$USER_HOME$/.colima/default/docker.sock" />
+        <env name="TESTCONTAINERS_DOCKER_SOCKET_OVERRIDE" value="/var/run/docker.sock" />
+      </envs>
+      <dir value="$PROJECT_DIR$/src/test/java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LittleThing" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <envs>
+        <env name="DATA_URI" value="mongodb://localhost:27017/littlethingdb" />
+      </envs>
+      <module name="little_thing" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="dev.robertfuller.little_thing.LittleThing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.RandomControllerEndToEndTests.testGetInRange" />
+      <item itemvalue="JUnit.RandomNumberResponseTests.testOf" />
+      <item itemvalue="JUnit.RandomerConfigTests" />
+      <item itemvalue="JUnit.RandomerConfigTests.testInstantGiver" />
+      <item itemvalue="JUnit.java in little_thing" />
+      <item itemvalue="Spring Boot.LittleThing" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.java in little_thing" />
+        <item itemvalue="JUnit.RandomControllerEndToEndTests.testGetInRange" />
+        <item itemvalue="JUnit.RandomerConfigTests" />
+        <item itemvalue="JUnit.RandomerConfigTests.testInstantGiver" />
+        <item itemvalue="JUnit.RandomNumberResponseTests.testOf" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.26222.65" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.26222.65" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a17387b-f703-45a3-8e29-4f9b22b7641a" name="Changes" comment="" />
+      <created>1792026409659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1792026409659</updated>
+      <workItem from="1792026410923" duration="991000" />
+      <workItem from="1792027418983" duration="1376000" />
+      <workItem from="1792110297985" duration="6696000" />
+      <workItem from="1792254062902" duration="18794000" />
+      <workItem from="1793409795224" duration="605000" />
+      <workItem from="1793410424727" duration="153000" />
+      <workItem from="1793410599769" duration="597000" />
+      <workItem from="1793411311891" duration="3358000" />
+      <workItem from="1793467307019" duration="1198000" />
+      <workItem from="1794364444809" duration="562000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LittleThing$RandomNumberResponseTests.ic" NAME="RandomNumberResponseTests Coverage Results" MODIFIED="1792110840188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>dev.robertfuller.little_thing.dtos.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/LittleThing$ResponseTests.ic" NAME="ResponseTests Coverage Results" MODIFIED="1792111007164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>dev.robertfuller.little_thing.dtos.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/LittleThing$RandomNumberServiceTests.ic" NAME="RandomNumberServiceTests Coverage Results" MODIFIED="1792112048239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>dev.robertfuller.little_thing.services.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/LittleThing$RandomerConfigTests.ic" NAME="RandomerConfigTests Coverage Results" MODIFIED="1792289218044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>dev.robertfuller.little_thing.configuration.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/LittleThing$java_in_little_thing.exec" NAME="java in little_thing Coverage Results" MODIFIED="1792354950871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="jacoco" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/LittleThing$RandomControllerTests.ic" NAME="RandomControllerTests Coverage Results" MODIFIED="1792113015441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>dev.robertfuller.little_thing.controllers.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/LittleThing$LittleThingTests.ic" NAME="LittleThingTests Coverage Results" MODIFIED="1792255876952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>dev.robertfuller.little_thing.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/LittleThing$java_in_little_thing.ic" NAME="java in little_thing Coverage Results" MODIFIED="1792289253705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+</project>
